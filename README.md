@@ -1,2 +1,2 @@
 # varanasi
-con fines educativos
+con fin educativo
